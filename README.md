@@ -1,18 +1,47 @@
-# 💫 About Me:
-I'm a student, im pursuing my bachelor's  degree in computer and communications engineering, <br>im based in india, i just started this coding journey, with two simple projects, to do and weather app<br>im currently working on making more projects and gaining the knowledge which comes from it<br>my hobbies are swimming and making beaded bracelets and rings<br>
+# Hey there, I'm Maanya!
 
+ I'm a **Computer and Communications Engineering** student based in **India**.  
+ I’ve recently started my **coding journey**, exploring the world of tech one project at a time.  
+ So far, I’ve built a **To-Do App** and a **Weather App**, and I’m currently working on new ideas to keep learning and improving.  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Maanya Arun) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:forcollegeuseonly0@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=maanyaarun&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=maanyaarun&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maanyaarun&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Outside of coding, I love **swimming** and **making beaded bracelets and rings** — creative outlets that help me stay grounded and inspired.  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=maanyaarun&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-9fc3f8?style=for-the-badge&logo=linkedin&logoColor=0A66C2)]([https://www.linkedin.com/in/maanya-arun-94b107287/])
+[![Email](https://img.shields.io/badge/Email-f9b5d0?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:forcollegeuseonly0@gmail.com)
+
+---
+
+## 🪄 Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-fbe8a6?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-a8dadc?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-fff3b0?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-bde0fe?style=for-the-badge&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-fec5bb?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![C](https://img.shields.io/badge/C-d8e2dc?style=for-the-badge&logo=c&logoColor=00599C)
+![Vercel](https://img.shields.io/badge/Vercel-e4d0ff?style=for-the-badge&logo=vercel&logoColor=000000)
+![Canva](https://img.shields.io/badge/Canva-b5ead7?style=for-the-badge&logo=canva&logoColor=00C4CC)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maanyaarun&show_icons=true&theme=calm_pink&hide_border=true&count_private=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maanyaarun&layout=compact&theme=calm_pink&hide_border=true" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=maanyaarun&theme=calm_pink&hide_border=true" height="160px"/>
+</p>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=maanyaarun&label=Profile%20Views&color=6b9080&icon=2&pretty=true)](https://visitcount.itsvg.in)
+
+---
+
