@@ -10,7 +10,7 @@ Outside of coding, I love **swimming** and **making beaded bracelets and rings**
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-9fc3f8?style=for-the-badge&logo=linkedin&logoColor=0A66C2)]([https://www.linkedin.com/in/maanya-arun-94b107287/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-9fc3f8?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/maanya-arun-94b107287/)
 [![Email](https://img.shields.io/badge/Email-f9b5d0?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:forcollegeuseonly0@gmail.com)
 
 ---
